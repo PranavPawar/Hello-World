@@ -1,4 +1,4 @@
 # Hello-World
 Yo. This is my first repository
 
-Sometimes the silver must be for the humans cause humans can be monsters..
+Pranav here. I like android programming and am interested in making some games..
